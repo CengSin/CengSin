@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm CengSin, Java&Golang Developer, Most of the time is spent on web back-end development
 
 <!--
 **CengSin/CengSin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

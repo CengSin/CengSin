@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=CengSin&show_icons=true&theme=Gradient)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=CengSin&show_icons=true&theme=gruvbox)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CengSin&theme=gruvbox&hide=html&layout=compact)

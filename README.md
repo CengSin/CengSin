@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CengSin&hide=html)
-![CengSin's github stats](https://github-readme-stats.vercel.app/api?username=CengSin&show_icons=true&count_private=true&line_height=40)
+![CengSin's github stats](https://github-readme-stats.vercel.app/api?username=CengSin&show_icons=true&count_private=true&line_height=30)

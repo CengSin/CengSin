@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![CengSin's github stats](https://github-readme-stats.vercel.app/api?username=CengSin&show_icons=true&count_private=true&line_height=30)
+![CengSin's github stats](https://github-readme-stats.vercel.app/api?username=CengSin&show_icons=true&count_private=true&line_height=30&theme=radical)

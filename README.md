@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cengsin&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cengsin&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=censin&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cengsin&theme=nord_bright)

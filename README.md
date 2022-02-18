@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![CengSin's github stats](https://github-readme-stats.vercel.app/api?username=CengSin&show_icons=true&count_private=true&line_height=33)
-![Golang is cute](https://github-readme-stats.vercel.app/api/top-langs/?username=cengsin&hide=javascript,html,css&show_icons=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cengsin&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cengsin&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=censin&theme=nord_bright)

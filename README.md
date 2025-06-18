@@ -2,8 +2,6 @@
 
 I'm CengSin, Java&Golang Developer, Most of the time is spent on web back-end development.
 
-Building: [易搜](https://yisou.xin) - A RAG service for personal knowledge management
-
 <!--
 **CengSin/CengSin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
